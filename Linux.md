@@ -20,13 +20,14 @@ Preferred with multiple files
 ### less +F /var/log/messages	
 
 Preferred with one file  
-Search “foo” with **/foo**  
-· Jump to the next occurence with **n** or the previous with **N**  
-· Go up with **j** or down with **k**  
-· Create marks with **m**  
+
+- Search “foo” with **/foo**  
+- Jump to the next occurence with **n** or the previous with **N**  
+- Go up with **j** or down with **k**  
+- Create marks with **m**  
 two modes:  
-(navigation ---**ctrl+c**---> watch)  
-(watch ---**F**---> navigation)  
+         -(navigation ---**ctrl+c**---> watch)  
+         -(watch ---**F**---> navigation)  
 
 rotating logs **--follow-name** option  
 
