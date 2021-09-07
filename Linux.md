@@ -18,6 +18,7 @@ freeze/unfreeze command line
 ### tail -f /var/log/messages
 Preferred with multiple files
 ### less +F /var/log/messages	
+```
 Preferred with one file
 Search “foo” with **/foo**
 · Jump to the next occurence with **n** or the previous with **N**
@@ -28,6 +29,7 @@ two modes:
 (watch ---**F**---> navigation)
 
 rotating logs **--follow-name** option
+```
 
 ### nmtui	
 edit Net. Conf.
