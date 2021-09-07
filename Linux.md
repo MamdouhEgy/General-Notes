@@ -25,13 +25,11 @@ Preferred with one file
 - Jump to the next occurence with **n** or the previous with **N**  
 - Go up with **j** or down with **k**  
 - Create marks with **m**  
-two modes:  
-         -(navigation ---**ctrl+c**---> watch)  
-         -(watch ---**F**---> navigation)  
+ 
 
-1. First list item
-   - First nested list item
-     - Second nested list item
+ two modes:
+   - (navigation ---**ctrl+c**---> watch) 
+     - (watch ---**F**---> navigation) 
 
 rotating logs **--follow-name** option  
 
