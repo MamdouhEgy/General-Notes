@@ -23,7 +23,8 @@ Preferred with **multiple** files (show you changes in all monitored files)
 
 ### less +F /var/log/messages	
 
-Preferred with **one** file  
+Preferred with **one** file  (only show you the first file (unless you use ctrl-c, :n, F to switch
+between buffers))
 
 - Search “foo” with **/foo**  
 - Jump to the next occurence with **n** or the previous with **N**  
