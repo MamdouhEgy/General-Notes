@@ -29,6 +29,10 @@ two modes:
          -(navigation ---**ctrl+c**---> watch)  
          -(watch ---**F**---> navigation)  
 
+1. First list item
+   - First nested list item
+     - Second nested list item
+
 rotating logs **--follow-name** option  
 
 
