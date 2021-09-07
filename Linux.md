@@ -27,9 +27,9 @@ Preferred with one file
 - Create marks with **m**  
  
 
- two modes:
-   - (navigation ---**ctrl+c**---> watch) 
-     - (watch ---**F**---> navigation) 
+ Two modes:
+     (navigation ---**ctrl+c**---> watch) 
+     (watch ---**F**---> navigation) 
 
 rotating logs **--follow-name** option  
 
